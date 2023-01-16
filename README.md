@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravbhardwaj1" alt="sauravbhardwaj1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="" target="_blank"> <img src"https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkdin" width="40" height="40" /> <a/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
