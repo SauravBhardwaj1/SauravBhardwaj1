@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravbhardwaj1" alt="sauravbhardwaj1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/saurav-bhardwaj-63230a133/" target="_blank"> <img src"" alt="linkdin" width="40" height="40" /> <a/>
+<p align="left"> <a href="https://www.linkedin.com/in/saurav-bhardwaj-63230a133/" target="_blank"> <img src"https://blog.waalaxy.com/wp-content/uploads/2021/01/Linkedin-Logo-2048x1280.png" alt="linkdin" width="40" height="40" /> <a/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
