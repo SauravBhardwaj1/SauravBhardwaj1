@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravbhardwaj1" alt="sauravbhardwaj1" /></a> </p>
 
-<li>🌱 I'm currrently learning Redux, NextJs, Typescript</li>
+<li>🌱 I'm currently learning Angular, NextJs, and Typescript </li>
 
 
-<li>💬 Ask me about Javascript </li>
+<li>💬 Ask me about Javascript, React, and Redux </li>
 
 
 <li>📫 How to reach me <a>sauravbhardwaj@gmail.com</a> </li>
