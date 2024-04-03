@@ -7,10 +7,6 @@
 
 <img align="center" src="https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sauravbhardwaj1&label=Profile%20views&color=0e75b6&style=flat" alt="sauravbhardwaj1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravbhardwaj1" alt="sauravbhardwaj1" /></a> </p>
-
 <li>🌱 I'm currently learning Angular, NextJs, and Typescript </li>
 
 
@@ -21,6 +17,12 @@
 
 
 <li>📫 My Portfolio:- <a href="https://sauravbhardwaj1.github.io/">https://sauravbhardwaj1.github.io/</a> </li>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sauravbhardwaj1&label=Profile%20views&color=0e75b6&style=flat" alt="sauravbhardwaj1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravbhardwaj1" alt="sauravbhardwaj1" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
  <a href="https://www.linkedin.com/in/saurav-bhardwaj-63230a133/" target="_blank" rel="noreferrer"> 
