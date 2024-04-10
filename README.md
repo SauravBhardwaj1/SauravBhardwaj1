@@ -2,18 +2,18 @@
 <h3 align="center">A passionate fullstack web developer from India</h3>
 
 
-<p>👋 Hi there! I'm Saurav Bhardwaj, a Stack Web Developer passionate about developing creative websites.</p>
+<p>👋 Hi there! I'm Saurav Bhardwaj, a Full Stack Web Developer passionate about developing creative websites.</p>
 <p>🚀 I love building and creating things and always look for ways to innovate and improve. You can find my latest projects and contributions on my GitHub profile.</p>
 
 <img align="center" src="https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 
-<li>🌱 I'm currently learning Angular, NextJs, and Typescript </li>
+<li>🌱 I'm currently learning Crypto, NextJs, and Typescript </li>
 
 
 <li>💬 Ask me about Javascript, React, and Redux </li>
 
 
-<li>📫 How to reach me <a>sauravbhardwaj@gmail.com</a> </li>
+<li>📫 How to reach me <a>sauravbhardwaj836@gmail.com</a> </li>
 
 
 <li>📫 My Portfolio:- <a href="https://sauravbhardwaj1.github.io/">https://sauravbhardwaj1.github.io/</a> </li>
